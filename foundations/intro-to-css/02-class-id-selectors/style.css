@@ -1,0 +1,17 @@
+.odd{
+    background-color: pink;
+    font-family: Verdana, sans-serif;
+
+}
+#one{
+    color: blue;
+    font-size: 36px;
+}
+.two{
+    font-size: 24px;
+}
+#another{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
